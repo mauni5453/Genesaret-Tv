@@ -33,9 +33,20 @@ https://www.tvmas.tv/envivo
 https://tubi.tv/stream/playlist.m3u8
 #EXTINF:-1 group-title="Películas",Popcornflix
 https://cdn3.videos.popcornflix.com/vod/index.m3u8
-#EXTINF:-1 group-title="Películas",Pluto TV Cine
-https://pluto.tv/live-tv/pluto-cinema
 #EXTINF:-1 group-title="Películas",Plex Movies
 https://plex.tv/streams/movies.m3u8
 #EXTINF:-1 group-title="Películas",Crackle
 https://crackle.com/streams/movies.m3u8
+#EXTINF:-1 tvg-id="pluto_cine_estelar" tvg-name="Cine Estelar" group-title="Pluto TV Películas",Cine Estelar
+https://pluto-web-ondemand.cdn.pluto.tv/ondemand/assets/linear/5dcde437229eff00091b6c30/index.m3u8
+#EXTINF:-1 tvg-id="pluto_cine_accion" tvg-name="Cine Acción" group-title="Pluto TV Películas",Cine Acción
+https://pluto-web-ondemand.cdn.pluto.tv/ondemand/assets/linear/5e2efdab7606430009a60684/index.m3u8
+#EXTINF:-1 tvg-id="pluto_cine_crimen" tvg-name="Cine Crimen" group-title="Pluto TV Películas",Cine Crimen
+https://pluto-web-ondemand.cdn.pluto.tv/ondemand/assets/linear/624af40c004f8000079b784d/index.m3u8
+#EXTINF:-1 tvg-id="pluto_cine_clasico" tvg-name="Cine Clásico" group-title="Pluto TV Películas",Cine Clásico
+https://pluto-web-ondemand.cdn.pluto.tv/ondemand/assets/linear/609059dc63be6e0007b4eca6/index.m3u8
+#EXTINF:-1 tvg-id="pluto_cine_romance" tvg-name="Cine Romance" group-title="Pluto TV Películas",Cine Romance
+https://pluto-web-ondemand.cdn.pluto.tv/ondemand/assets/linear/5dd7ea2aeab5230009986735/index.m3u8
+#EXTINF:-1 tvg-id="pluto_cine_comedia" tvg-name="Cine Comedia" group-title="Pluto TV Películas",Cine Comedia
+https://pluto-web-ondemand.cdn.pluto.tv/ondemand/assets/linear/60905b7e63be6e0007b4ecac/index.m3u8
+
