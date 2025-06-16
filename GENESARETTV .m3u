@@ -29,3 +29,13 @@ https://redirector.dps.live/hls/13realities/playlist.m3u8
 https://redirector.dps.live/hls/13viajes/playlist.m3u8
 #EXTINF:-1 tvg-id="TV+Chile.cl" tvg-name="TV+" group-title="Chile",TV+
 https://www.tvmas.tv/envivo
+#EXTINF:-1 group-title="Películas",Tubi Movies
+https://tubi.tv/stream/playlist.m3u8
+#EXTINF:-1 group-title="Películas",Popcornflix
+https://cdn3.videos.popcornflix.com/vod/index.m3u8
+#EXTINF:-1 group-title="Películas",Pluto TV Cine
+https://pluto.tv/live-tv/pluto-cinema
+#EXTINF:-1 group-title="Películas",Plex Movies
+https://plex.tv/streams/movies.m3u8
+#EXTINF:-1 group-title="Películas",Crackle
+https://crackle.com/streams/movies.m3u8
