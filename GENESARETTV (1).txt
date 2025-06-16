@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="genesaret" tvg-name="GENESARET TV" tvg-logo="/mnt/data/Yellow and Black Smart TV Logo.png" group-title="GENESARET TV", GENESARET TV
+https://vdochile.com:3083/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN"  group-title="GENESARET TV", TVN
+https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8
+#EXTINF:-1 tvg-id="TVN_24_Horas" tvg-name="TVN 24 Horas"  group-title="GENESARET TV", TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:-1 tvg-id="TVN3" tvg-name="TVN3"  group-title="GENESARET TV", TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega"  group-title="GENESARET TV", Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CHV" tvg-name="CHV"  group-title="GENESARET TV", CHV
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
+#EXTINF:-1 tvg-id="Canal_13" tvg-name="Canal 13"  group-title="GENESARET TV", Canal 13
+https://m3u.cl/channel/c13.php
+#EXTINF:-1 tvg-id="La_Red" tvg-name="La Red"  group-title="GENESARET TV", La Red
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UCV" tvg-name="UCV"  group-title="GENESARET TV", UCV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UCV2" tvg-name="UCV 2"  group-title="GENESARET TV", UCV 2
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="13_Festival" tvg-name="13 Festival"  group-title="GENESARET TV", 13 Festival
+https://redirector.dps.live/hls/13festival/playlist.m3u8
+#EXTINF:-1 tvg-id="13_Pop" tvg-name="13 Pop"  group-title="GENESARET TV", 13 Pop
+https://redirector.dps.live/hls/13pop/playlist.m3u8
+#EXTINF:-1 tvg-id="13_Realities" tvg-name="13 Realities"  group-title="GENESARET TV", 13 Realities
+https://redirector.dps.live/hls/13realities/playlist.m3u8
+#EXTINF:-1 tvg-id="13_Viajes" tvg-name="13 Viajes"  group-title="GENESARET TV", 13 Viajes
+https://redirector.dps.live/hls/13viajes/playlist.m3u8
