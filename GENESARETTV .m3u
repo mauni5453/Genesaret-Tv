@@ -27,5 +27,3 @@ https://redirector.dps.live/hls/13pop/playlist.m3u8
 https://redirector.dps.live/hls/13realities/playlist.m3u8
 #EXTINF:-1 tvg-id="13_Viajes" tvg-name="13 Viajes"  group-title="GENESARET TV", 13 Viajes
 https://redirector.dps.live/hls/13viajes/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTv" tvg-name="PlutoTv"  group-title="GENESARET TV", PlutoTv
-https://nocords.xyz/pluto/playlist.m3u
