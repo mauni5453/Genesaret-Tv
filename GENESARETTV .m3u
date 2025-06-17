@@ -27,5 +27,37 @@ https://redirector.dps.live/hls/13pop/playlist.m3u8
 https://redirector.dps.live/hls/13realities/playlist.m3u8
 #EXTINF:-1 tvg-id="13_Viajes" tvg-name="13 Viajes"  group-title="GENESARET TV", 13 Viajes
 https://redirector.dps.live/hls/13viajes/playlist.m3u8
-#EXTINF:-1,Pluto TV (All Regions) Movie Channels
-https://i.mjh.nz/PlutoTV/all.m3u8
+
+#EXTM3U
+
+# Cine Latino
+#EXTINF:-1 tvg-name="Cine Latino" group-title="Cine",Cine Latino
+https://cdn-iptv-org.akamaized.net/streams/cine-latino.m3u8
+
+# Cine Nostalgia
+#EXTINF:-1 tvg-name="Cine Nostalgia" group-title="Cine",Cine Nostalgia
+https://cdn-iptv-org.akamaized.net/streams/cinenostalgia.m3u8
+
+# Cine Clásico
+#EXTINF:-1 tvg-name="Cine Clásico" group-title="Cine",Cine Clásico
+https://cdn-iptv-org.akamaized.net/streams/cineclasico.m3u8
+
+# Cine Acción
+#EXTINF:-1 tvg-name="Cine Acción" group-title="Cine",Cine Acción
+https://cdn-iptv-org.akamaized.net/streams/cineaccion.m3u8
+
+# Cine Drama
+#EXTINF:-1 tvg-name="Cine Drama" group-title="Cine",Cine Drama
+https://cdn-iptv-org.akamaized.net/streams/cinedrama.m3u8
+
+# Cine Comedia
+#EXTINF:-1 tvg-name="Cine Comedia" group-title="Cine",Cine Comedia
+https://cdn-iptv-org.akamaized.net/streams/cinecomedia.m3u8
+
+# Cine Romance
+#EXTINF:-1 tvg-name="Cine Romance" group-title="Cine",Cine Romance
+https://cdn-iptv-org.akamaized.net/streams/cineromance.m3u8
+
+# Películas 24/7
+#EXTINF:-1 tvg-name="Películas 24/7" group-title="Cine",Películas 24/7
+https://cdn-iptv-org.akamaized.net/streams/peliculas247.m3u8
